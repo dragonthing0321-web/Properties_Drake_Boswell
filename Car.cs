@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Properties_Drake_Boswell
 {
+    //This class represents a car with properties for the make and model.
     internal class Car
     {
         // This is a backing field for the Model property.
